@@ -1,0 +1,21 @@
+.buld {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  margin: 10px;
+  opacity: 0.2;
+}
+.buld.active {
+  opacity: 1;
+}
+.buld.red {
+  background-color: red;
+}
+
+.buld.orange {
+  background-color: orange;
+}
+
+.buld.green {
+  background-color: green;
+}
